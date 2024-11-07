@@ -1,4 +1,4 @@
-Para rodar o projeto, voce pode optar por copiar o assunto do documento index.js no site a baixo:
+Para rodar o projeto, voce pode optar por copiar o assunto do documento index.js no site:
 https://www.w3schools.com/tryit/trycompiler.asp?filename=demo_nodejs
 
 Instruções para entrega
